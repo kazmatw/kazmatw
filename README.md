@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/kazmatw/kazmatw/blob/main/terminal.gif?raw=true)](https://kazmatw.github.io)
 <h1 align="center">Hi 👋, I'm Kazma</h1>
 <h3 align="center">NCKUCTF & TSC Founder</h3>
 
