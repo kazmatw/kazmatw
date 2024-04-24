@@ -23,6 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pwnable.tw hacknote Writeup](https://kazma.tw/2024/04/20/Pwnable-tw-hacknote-Writeup/)
+- [Pwnable.tw dubblesort Writeup](https://kazma.tw/2024/04/19/Pwnable-tw-dubblesort-Writeup/)
+- [Patchelf &amp; Glibc-all-in-one Combo](https://kazma.tw/2024/04/19/Patchelf-Glibc-all-in-one-Combo/)
+- [HITCON-CTF-2023 Full Chain - The Blade Writeup](https://kazma.tw/2024/02/19/HITCON-CTF-2023-Full-Chain-The-Blade-Writeup/)
+- [Pwnable.tw calc Writeup](https://kazma.tw/2024/02/11/Pwnable-tw-calc-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
