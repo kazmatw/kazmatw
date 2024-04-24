@@ -21,6 +21,8 @@
 
 - 📖 Stories about me **https://kazma.tw/whoami**
 
+<img align="right" alt="holoface" width="450" src="https://github.com/kazmatw/kazmatw/blob/main/blog_screenshot.png?raw=true">
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Pwnable.tw hacknote Writeup](https://kazma.tw/2024/04/20/Pwnable-tw-hacknote-Writeup/)
