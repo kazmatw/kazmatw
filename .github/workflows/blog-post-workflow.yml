@@ -1,7 +1,8 @@
 name: Latest blog post from kazma.tw
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 * * * *'
 
 permissions:
   contents: write 
