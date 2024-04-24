@@ -23,7 +23,7 @@
 
 <img align="right" alt="holoface" width="450" src="https://github.com/kazmatw/kazmatw/blob/main/blog_screenshot.png?raw=true">
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Pwnable.tw hacknote Writeup](https://kazma.tw/2024/04/20/Pwnable-tw-hacknote-Writeup/)
 - [Pwnable.tw dubblesort Writeup](https://kazma.tw/2024/04/19/Pwnable-tw-dubblesort-Writeup/)
