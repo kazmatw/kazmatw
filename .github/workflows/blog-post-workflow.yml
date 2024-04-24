@@ -2,7 +2,7 @@ name: Latest blog post from kazma.tw
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
 
 permissions:
   contents: write 
