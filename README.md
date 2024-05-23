@@ -7,9 +7,9 @@
 
 - 🔺 Currently interning at [CyCraft](https://cycraft.com/)
 
-- 👾 Learning **Pwn & Reverse**
-
 - 🔭 Also interning at [Telecom Technology Center](https://www.ttc.org.tw/Eng/)
+
+- 👾 Learning **Pwn & Reverse**
 
 - 🇹🇼 CTF team @ [B33F 50UP](https://linktr.ee/NCKUCTF)
 
