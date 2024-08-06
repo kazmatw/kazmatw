@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LYS Rop lab_rop4 Writeup](https://kazma.tw/2024/08/05/LYS-Rop-lab-rop4-Writeup/)
 - [LYS Rop lab_rop3 Writeup](https://kazma.tw/2024/08/03/LYS-Rop-lab-rop3-Writeup/)
 - [LYS Rop lab_rop2 Writeup](https://kazma.tw/2024/08/01/LYS-Rop-lab-rop2-Writeup/)
 - [Pwnable.tw Death Note Writeup](https://kazma.tw/2024/06/07/Pwnable-tw-Death-Note-Writeup/)
 - [Pwnable.tw Silver Bullet Writeup](https://kazma.tw/2024/06/07/Pwnable-tw-Silver-Bullet-Writeup/)
-- [Pwnable.tw hacknote Writeup](https://kazma.tw/2024/06/04/Pwnable-tw-hacknote-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
