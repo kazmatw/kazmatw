@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox-Challenges Regularity Writeup](https://kazma.tw/2024/08/11/HackTheBox-Challenges-Regularity-Writeup/)
+- [HackTheBox-Machines BoardLight Writeup](https://kazma.tw/2024/08/11/HackTheBox-Machines-BoardLight-Writeup/)
+- [HackTheBox-Machines GreenHorn Writeup](https://kazma.tw/2024/08/11/HackTheBox-Machines-GreenHorn-Writeup/)
+- [HackTheBox-Machines Lame Writeup](https://kazma.tw/2024/08/11/HackTheBox-Machines-Lame-Writeup/)
 - [LYS Rop lab_srop Writeup](https://kazma.tw/2024/08/05/LYS-Rop-lab-srop-Writeup/)
-- [LYS Rop lab_rop4 Writeup](https://kazma.tw/2024/08/05/LYS-Rop-lab-rop4-Writeup/)
-- [LYS Rop lab_rop3 Writeup](https://kazma.tw/2024/08/03/LYS-Rop-lab-rop3-Writeup/)
-- [LYS Rop lab_rop2 Writeup](https://kazma.tw/2024/08/01/LYS-Rop-lab-rop2-Writeup/)
-- [Pwnable.tw Death Note Writeup](https://kazma.tw/2024/06/07/Pwnable-tw-Death-Note-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
