@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox-Machines Editorial Writeup](https://kazma.tw/2024/08/12/HackTheBox-Machines-Editorial-Writeup/)
 - [HackTheBox-Machines PermX Writeup](https://kazma.tw/2024/08/12/HackTheBox-Machines-PermX-Writeup/)
 - [HackTheBox-Challenges Regularity Writeup](https://kazma.tw/2024/08/11/HackTheBox-Challenges-Regularity-Writeup/)
 - [HackTheBox-Machines BoardLight Writeup](https://kazma.tw/2024/08/11/HackTheBox-Machines-BoardLight-Writeup/)
 - [HackTheBox-Machines GreenHorn Writeup](https://kazma.tw/2024/08/11/HackTheBox-Machines-GreenHorn-Writeup/)
-- [HackTheBox-Machines Lame Writeup](https://kazma.tw/2024/08/11/HackTheBox-Machines-Lame-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
