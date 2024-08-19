@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox-Challenges Money Flowz Writeup](https://kazma.tw/2024/08/17/HackTheBox-Challenges-Money-Flowz-Writeup/)
 - [HackTheBox-Machines Mailing Writeup](https://kazma.tw/2024/08/15/HackTheBox-Machines-Mailing-Writeup/)
 - [HackTheBox-Machines Sea Writeup](https://kazma.tw/2024/08/15/HackTheBox-Machines-Sea-Writeup/)
 - [HackTheBox-Machines Editorial Writeup](https://kazma.tw/2024/08/12/HackTheBox-Machines-Editorial-Writeup/)
 - [HackTheBox-Machines PermX Writeup](https://kazma.tw/2024/08/12/HackTheBox-Machines-PermX-Writeup/)
-- [HackTheBox-Challenges Regularity Writeup](https://kazma.tw/2024/08/11/HackTheBox-Challenges-Regularity-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
