@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HITCON CMT 2024 - UCCU AI Challenge Writeup](https://kazma.tw/2024/08/24/HITCON-CMT-2024-UCCU-AI-Challenge-Writeup/)
+- [HITCON CMT 2024 「Prompt 之助的秘密寶箱」 Writeup](https://kazma.tw/2024/08/24/HITCON-CMT-2024-%E3%80%8CPrompt-%E4%B9%8B%E5%8A%A9%E7%9A%84%E7%A7%98%E5%AF%86%E5%AF%B6%E7%AE%B1%E3%80%8D-Writeup/)
 - [HackTheBox-Challenges Money Flowz Writeup](https://kazma.tw/2024/08/17/HackTheBox-Challenges-Money-Flowz-Writeup/)
 - [HackTheBox-Machines Mailing Writeup](https://kazma.tw/2024/08/15/HackTheBox-Machines-Mailing-Writeup/)
 - [HackTheBox-Machines Sea Writeup](https://kazma.tw/2024/08/15/HackTheBox-Machines-Sea-Writeup/)
-- [HackTheBox-Machines Editorial Writeup](https://kazma.tw/2024/08/12/HackTheBox-Machines-Editorial-Writeup/)
-- [HackTheBox-Machines PermX Writeup](https://kazma.tw/2024/08/12/HackTheBox-Machines-PermX-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
