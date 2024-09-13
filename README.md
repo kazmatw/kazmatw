@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipper Zero 宇宙最強攻略：30 天帶你從入門到入坑 Day01 - 前言 &amp; 獲取管道](https://kazma.tw/2024/09/13/Flipper-Zero-%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%B7%E6%94%BB%E7%95%A5%EF%BC%9A30-%E5%A4%A9%E5%B8%B6%E4%BD%A0%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E5%85%A5%E5%9D%91-Day01-%E5%89%8D%E8%A8%80-%E7%8D%B2%E5%8F%96%E7%AE%A1%E9%81%93/)
+- [Prompt Injection Note](https://kazma.tw/2024/08/28/Prompt-Injection-Note/)
+- [HackTheBox-Challenges Easy Phish Writeup](https://kazma.tw/2024/08/26/HackTheBox-Challenges-Easy-Phish-Writeup/)
 - [HackTheBox-Challenges Infiltration Writeup](https://kazma.tw/2024/08/26/HackTheBox-Challenges-Infiltration-Writeup/)
 - [HITCON CMT 2024 - UCCU AI Challenge Writeup](https://kazma.tw/2024/08/24/HITCON-CMT-2024-UCCU-AI-Challenge-Writeup/)
-- [HITCON CMT 2024 「Prompt 之助的秘密寶箱」 Writeup](https://kazma.tw/2024/08/24/HITCON-CMT-2024-%E3%80%8CPrompt-%E4%B9%8B%E5%8A%A9%E7%9A%84%E7%A7%98%E5%AF%86%E5%AF%B6%E7%AE%B1%E3%80%8D-Writeup/)
-- [HackTheBox-Challenges Money Flowz Writeup](https://kazma.tw/2024/08/17/HackTheBox-Challenges-Money-Flowz-Writeup/)
-- [HackTheBox-Machines Mailing Writeup](https://kazma.tw/2024/08/15/HackTheBox-Machines-Mailing-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
