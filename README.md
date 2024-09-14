@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipper Zero 宇宙最強攻略：30 天帶你從入門到入坑 Day02 - 超越動物星球頻道的賽博海豚基本功能剖析](https://kazma.tw/2024/09/13/Flipper-Zero-%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%B7%E6%94%BB%E7%95%A5%EF%BC%9A30-%E5%A4%A9%E5%B8%B6%E4%BD%A0%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E5%85%A5%E5%9D%91-Day02-%E8%B6%85%E8%B6%8A%E5%8B%95%E7%89%A9%E6%98%9F%E7%90%83%E9%A0%BB%E9%81%93%E7%9A%84%E8%B3%BD%E5%8D%9A%E6%B5%B7%E8%B1%9A%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E5%89%96%E6%9E%90/)
 - [Flipper Zero 宇宙最強攻略：30 天帶你從入門到入坑 Day01 - 前言 &amp; 獲取管道](https://kazma.tw/2024/09/13/Flipper-Zero-%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%B7%E6%94%BB%E7%95%A5%EF%BC%9A30-%E5%A4%A9%E5%B8%B6%E4%BD%A0%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E5%85%A5%E5%9D%91-Day01-%E5%89%8D%E8%A8%80-%E7%8D%B2%E5%8F%96%E7%AE%A1%E9%81%93/)
 - [Prompt Injection Note](https://kazma.tw/2024/08/28/Prompt-Injection-Note/)
 - [HackTheBox-Challenges Easy Phish Writeup](https://kazma.tw/2024/08/26/HackTheBox-Challenges-Easy-Phish-Writeup/)
 - [HackTheBox-Challenges Infiltration Writeup](https://kazma.tw/2024/08/26/HackTheBox-Challenges-Infiltration-Writeup/)
-- [HITCON CMT 2024 - UCCU AI Challenge Writeup](https://kazma.tw/2024/08/24/HITCON-CMT-2024-UCCU-AI-Challenge-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
