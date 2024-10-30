@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flipper Zero 宇宙最強攻略：30 天帶你從入門到入坑 Day15 - 今天要介紹的不是 iPhone，也不是 iPad，而是 iButton！](https://kazma.tw/2024/09/30/Flipper-Zero-%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%B7%E6%94%BB%E7%95%A5%EF%BC%9A30-%E5%A4%A9%E5%B8%B6%E4%BD%A0%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E5%85%A5%E5%9D%91-Day15-%E4%BB%8A%E5%A4%A9%E8%A6%81%E4%BB%8B%E7%B4%B9%E7%9A%84%E4%B8%8D%E6%98%AF-iPhone%EF%BC%8C%E4%B9%9F%E4%B8%8D%E6%98%AF-iPad%EF%BC%8C%E8%80%8C%E6%98%AF-iButton%EF%BC%81/)
-- [Flipper Zero 宇宙最強攻略：30 天帶你從入門到入坑 Day14 - 用 Flipper Zero Infrared 成為無所不能的沙發馬鈴薯指揮家](https://kazma.tw/2024/09/28/Flipper-Zero-%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%B7%E6%94%BB%E7%95%A5%EF%BC%9A30-%E5%A4%A9%E5%B8%B6%E4%BD%A0%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E5%85%A5%E5%9D%91-Day14-%E7%94%A8-Flipper-Zero-Infrared-%E6%88%90%E7%82%BA%E7%84%A1%E6%89%80%E4%B8%8D%E8%83%BD%E7%9A%84%E6%B2%99%E7%99%BC%E9%A6%AC%E9%88%B4%E8%96%AF%E6%8C%87%E6%8F%AE%E5%AE%B6/)
-- [Flipper Zero 宇宙最強攻略：30 天帶你從入門到入坑 Day13 - 刷一下就搞定！NFC Maker 讓生活變得更簡單！](https://kazma.tw/2024/09/27/Flipper-Zero-%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%B7%E6%94%BB%E7%95%A5%EF%BC%9A30-%E5%A4%A9%E5%B8%B6%E4%BD%A0%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E5%85%A5%E5%9D%91-Day13-%E5%88%B7%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%90%9E%E5%AE%9A%EF%BC%81NFC-Maker-%E8%AE%93%E7%94%9F%E6%B4%BB%E8%AE%8A%E5%BE%97%E6%9B%B4%E7%B0%A1%E5%96%AE%EF%BC%81/)
-- [Flipper Zero 宇宙最強攻略：30 天帶你從入門到入坑 Day12 - 什麼！？連 NFC 都可以 RickRoll 你隔壁的同學！？](https://kazma.tw/2024/09/26/Flipper-Zero-%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%B7%E6%94%BB%E7%95%A5%EF%BC%9A30-%E5%A4%A9%E5%B8%B6%E4%BD%A0%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E5%85%A5%E5%9D%91-Day12-%E4%BB%80%E9%BA%BC%EF%BC%81%EF%BC%9F%E9%80%A3-NFC-%E9%83%BD%E5%8F%AF%E4%BB%A5-RickRoll-%E4%BD%A0%E9%9A%94%E5%A3%81%E7%9A%84%E5%90%8C%E5%AD%B8%EF%BC%81%EF%BC%9F/)
-- [Flipper Zero 宇宙最強攻略：30 天帶你從入門到入坑 Day11 - 誰說要卡才能進？MFKey32 攻擊讓你無卡也能破解門禁!](https://kazma.tw/2024/09/25/Flipper-Zero-%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%B7%E6%94%BB%E7%95%A5%EF%BC%9A30-%E5%A4%A9%E5%B8%B6%E4%BD%A0%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E5%85%A5%E5%9D%91-Day11-%E8%AA%B0%E8%AA%AA%E8%A6%81%E5%8D%A1%E6%89%8D%E8%83%BD%E9%80%B2%EF%BC%9FMFKey32-%E6%94%BB%E6%93%8A%E8%AE%93%E4%BD%A0%E7%84%A1%E5%8D%A1%E4%B9%9F%E8%83%BD%E7%A0%B4%E8%A7%A3%E9%96%80%E7%A6%81/)
+- [HackTheBox-Challenges racecar Writeup](https://kazma.tw/2024/10/28/HackTheBox-Challenges-racecar-Writeup/)
+- [HackTheBox-Machines Devel Writeup](https://kazma.tw/2024/10/27/HackTheBox-Machines-Devel-Writeup/)
+- [HackTheBox-Machines Blue Writeup](https://kazma.tw/2024/10/27/HackTheBox-Machines-Blue-Writeup/)
+- [HackTheBox-Machines Legacy Writeup](https://kazma.tw/2024/10/27/HackTheBox-Machines-Legacy-Writeup/)
+- [Flipper Zero 宇宙最強攻略：30 天帶你從入門到入坑 Day30 - 未完待續！撲朔迷離的十一月預告信？](https://kazma.tw/2024/10/14/Flipper-Zero-%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%B7%E6%94%BB%E7%95%A5%EF%BC%9A30-%E5%A4%A9%E5%B8%B6%E4%BD%A0%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E5%85%A5%E5%9D%91-Day30/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
