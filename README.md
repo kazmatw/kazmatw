@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox-Challenges Gunship Writeup](https://kazma.tw/2024/10/30/HackTheBox-Challenges-Gunship-Writeup/)
+- [HackTheBox-Challenges Don&#39;t Overreact Writeup](https://kazma.tw/2024/10/30/HackTheBox-Challenges-Don-t-Overreact-Writeup/)
 - [HackTheBox-Challenges racecar Writeup](https://kazma.tw/2024/10/28/HackTheBox-Challenges-racecar-Writeup/)
 - [HackTheBox-Machines Devel Writeup](https://kazma.tw/2024/10/27/HackTheBox-Machines-Devel-Writeup/)
 - [HackTheBox-Machines Blue Writeup](https://kazma.tw/2024/10/27/HackTheBox-Machines-Blue-Writeup/)
-- [HackTheBox-Machines Legacy Writeup](https://kazma.tw/2024/10/27/HackTheBox-Machines-Legacy-Writeup/)
-- [Flipper Zero 宇宙最強攻略：30 天帶你從入門到入坑 Day30 - 未完待續！撲朔迷離的十一月預告信？](https://kazma.tw/2024/10/14/Flipper-Zero-%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%B7%E6%94%BB%E7%95%A5%EF%BC%9A30-%E5%A4%A9%E5%B8%B6%E4%BD%A0%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E5%85%A5%E5%9D%91-Day30/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
