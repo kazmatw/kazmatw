@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox-Challenges Wrong Spooky Season Writeup](https://kazma.tw/2024/10/31/HackTheBox-Challenges-Wrong-Spooky-Season-Writeup/)
+- [HackTheBox-Challenges Spookifier Writeup](https://kazma.tw/2024/10/31/HackTheBox-Challenges-Spookifier-Writeup/)
 - [HackTheBox-Challenges Gunship Writeup](https://kazma.tw/2024/10/30/HackTheBox-Challenges-Gunship-Writeup/)
 - [HackTheBox-Challenges Don&#39;t Overreact Writeup](https://kazma.tw/2024/10/30/HackTheBox-Challenges-Don-t-Overreact-Writeup/)
 - [HackTheBox-Challenges racecar Writeup](https://kazma.tw/2024/10/28/HackTheBox-Challenges-racecar-Writeup/)
-- [HackTheBox-Machines Devel Writeup](https://kazma.tw/2024/10/27/HackTheBox-Machines-Devel-Writeup/)
-- [HackTheBox-Machines Blue Writeup](https://kazma.tw/2024/10/27/HackTheBox-Machines-Blue-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
