@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox-Challenges Entity Writeup](https://kazma.tw/2024/11/08/HackTheBox-Challenges-Entity-Writeup/)
+- [HackTheBox-Challenges Vault-breaker Writeup](https://kazma.tw/2024/11/07/HackTheBox-Challenges-Vault-breaker-Writeup/)
+- [HackTheBox-Challenges Space pirate: Retribution Writeup](https://kazma.tw/2024/11/06/HackTheBox-Challenges-Space-pirate-Retribution-Writeup/)
 - [HackTheBox-Challenges Space pirate: Entrypoint Writeup](https://kazma.tw/2024/11/05/HackTheBox-Challenges-Space-pirate-Entrypoint-Writeup/)
 - [HackTheBox-Challenges WIDE Writeup](https://kazma.tw/2024/11/04/HackTheBox-Challenges-WIDE-Writeup/)
-- [HackTheBox-Challenges Compressor Writeup](https://kazma.tw/2024/11/04/HackTheBox-Challenges-Compressor-Writeup/)
-- [頂大資安研究所推甄全攻略：準備過程、技巧分享與面試心得](https://kazma.tw/2024/11/02/%E9%A0%82%E5%B0%96%E8%B3%87%E5%AE%89%E7%A0%94%E7%A9%B6%E6%89%80%E6%8E%A8%E7%94%84%E5%85%A8%E6%94%BB%E7%95%A5%EF%BC%9A%E6%BA%96%E5%82%99%E9%81%8E%E7%A8%8B%E3%80%81%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB%E8%88%87%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97/)
-- [HackTheBox-Challenges SpookTastic Writeup](https://kazma.tw/2024/11/02/HackTheBox-Challenges-SpookTastic-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
