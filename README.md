@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox-Machines Scanned Writeup](https://kazma.tw/2024/11/15/HackTheBox-Machines-Scanned-Writeup/)
+- [Pwn CTF pivotquest Writeup](https://kazma.tw/2024/11/11/Pwn-CTF-pivotquest-Writeup/)
 - [Pwn CTF doors Writeup](https://kazma.tw/2024/11/11/Pwn-CTF-doors-Writeup/)
 - [HackTheBox-Challenges Entity Writeup](https://kazma.tw/2024/11/08/HackTheBox-Challenges-Entity-Writeup/)
 - [HackTheBox-Challenges Vault-breaker Writeup](https://kazma.tw/2024/11/07/HackTheBox-Challenges-Vault-breaker-Writeup/)
-- [HackTheBox-Challenges Space pirate: Retribution Writeup](https://kazma.tw/2024/11/06/HackTheBox-Challenges-Space-pirate-Retribution-Writeup/)
-- [HackTheBox-Challenges Space pirate: Entrypoint Writeup](https://kazma.tw/2024/11/05/HackTheBox-Challenges-Space-pirate-Entrypoint-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
