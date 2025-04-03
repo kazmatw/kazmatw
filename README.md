@@ -7,13 +7,11 @@
 
 - 🔺 Currently interning at [CyCraft](https://cycraft.com/)
 
-- 🔭 Also interning at [Telecom Technology Center](https://www.ttc.org.tw/Eng/)
-
 - 👾 Learning **Pwn & Reverse**
 
 - 🇹🇼 CTF team @ [B33F 50UP](https://linktr.ee/NCKUCTF)
 
-- 📝 Some CTF writeups on [https://kazma.tw](https://kazma.tw)
+- 📝 Blog posts on [https://kazma.tw](https://kazma.tw)
 
 - 📫 How to reach me **https://linktr.ee/kazma.tw**
 
@@ -23,7 +21,7 @@
 
 <img align="right" alt="holoface" width="450" src="https://github.com/kazmatw/kazmatw/blob/main/blog_screenshot.png?raw=true">
 
-### Blog posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [AngelBoy Windows Kernel Exploitation Note](https://kazma.tw/2024/12/24/AngelBoy-Windows-Kernel-Exploitation-Note/)
 - [CGGC Reverse Medium Kazmansomware Writeup](https://kazma.tw/2024/12/07/CGGC-2024-Reverse-Medium-Kazmansomware-Writeup/)
