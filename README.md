@@ -1,9 +1,11 @@
 [![MasterHead](https://github.com/kazmatw/kazmatw/blob/main/terminal900_400.gif?raw=true)](https://kazmatw.github.io)
 <h1 align="center">Hi 👋, I'm Kazma</h1>
-<h3 align="center">Founder of NCKUCTF & TSC</h3>
+<h3 align="center">A college student from Taiwan 🇹🇼</h3>
 <img align="right" alt="holoface" width="450" src="https://github.com/kazmatw/kazmatw/blob/main/%E5%BD%A2%E8%B1%A1%E7%85%A73.jpg?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazmatw&label=Profile%20views&color=0e75b6&style=flat" alt="kazmatw" /> </p>
+
+Kazma is a university student from Taiwan and a cybersecurity researcher — rumored to be the last surviving member of the Uchiha clan. His current work focuses on security research. He’s also an active CTF player with the B33F 50UP team, with a passion for reverse engineering and binary exploitation.
 
 - 🔺 Currently interning at [CyCraft](https://cycraft.com/)
 
