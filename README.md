@@ -25,11 +25,11 @@ Kazma is a university student from Taiwan and a cybersecurity researcher — rum
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NCKUCTF XY Active Directory Note](https://kazma.tw/2025/05/20/NCKUCTF-XY-Active-Directory-Note/)
 - [AngelBoy Windows Kernel Exploitation Note](https://kazma.tw/2024/12/24/AngelBoy-Windows-Kernel-Exploitation-Note/)
 - [CGGC Reverse Medium Kazmansomware Writeup](https://kazma.tw/2024/12/07/CGGC-2024-Reverse-Medium-Kazmansomware-Writeup/)
 - [AngelBoy Windows Binary Exploitation play_with_win_sc Writeup](https://kazma.tw/2024/11/19/AngelBoy-Windows-Binary-Exploitation-shellcoding-Writeup/)
 - [AngelBoy Windows Binary Exploitation ret2lib Writeup](https://kazma.tw/2024/11/19/AngelBoy-Windows-Binary-Exploitation-ret2lib-Writeup/)
-- [AngelBoy Windows Binary Exploitation bofeasy Writeup](https://kazma.tw/2024/11/18/AngelBoy-Windows-Binary-Exploitation-bofeasy-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
