@@ -25,7 +25,7 @@ Kazma is a university student from Taiwan and a cybersecurity researcher — rum
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [站上世界級的駭客舞台吧！2025 Black Hat &amp; DEF CON 全紀錄](https://kazma.tw/2025/08/17/%E7%AB%99%E4%B8%8A%E4%B8%96%E7%95%8C%E7%B4%9A%E7%9A%84%E9%A7%AD%E5%AE%A2%E8%88%9E%E5%8F%B0%E5%90%A7%EF%BC%812025-Black-Hat-DEF-CON-%E5%85%A8%E7%B4%80%E9%8C%84/)
+- [站上世界級的駭客舞台吧！2025 Black Hat &amp; DEF CON 全紀錄](https://kazma.tw/bhdc/)
 - [NCKUCTF XY Active Directory Note](https://kazma.tw/2025/05/20/NCKUCTF-XY-Active-Directory-Note/)
 - [AngelBoy Windows Kernel Exploitation Note](https://kazma.tw/2024/12/24/AngelBoy-Windows-Kernel-Exploitation-Note/)
 - [CGGC Reverse Medium Kazmansomware Writeup](https://kazma.tw/2024/12/07/CGGC-2024-Reverse-Medium-Kazmansomware-Writeup/)
